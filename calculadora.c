@@ -2,8 +2,10 @@
 #include <stdlib.h>
 #include <locale.h>
 
-/*Programa Calculadora para testar uso de operacoes em linguagem C,
-e o uso de condicionantes ifs e elses*/
+/*
+Programa Calculadora para testar uso de operacoes em linguagem C,
+e o uso de condicionantes ifs e elses
+*/
 
 
 int main()
