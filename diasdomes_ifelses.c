@@ -1,5 +1,7 @@
-/* Programa para retornar o total de dias do mes escolhido
-Uso de condicoes if e else */
+/* 
+Programa para retornar o total de dias do mes escolhido
+Uso de condicoes if e else 
+*/
 
 
 #include <stdio.h>
