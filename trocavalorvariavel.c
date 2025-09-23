@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Programa para trocar o valor de a e b, 
-sem atribuir ou trocar a variavel a pela b*/
+/* 
+Programa para trocar o valor de a e b, 
+sem atribuir ou trocar a variavel a pela b
+*/
 
 int main()
 {
