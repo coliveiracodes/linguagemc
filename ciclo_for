@@ -16,3 +16,14 @@ int main()
     }
     return 0;
 }
+
+
+
+/*vantagem de declarar o i dentro do ciclo é que só ocupa memoria quando o ciclo correr
+            sintaxe:
+for(contador;condição; ritmo){
+
+for(int i=0; i<10 ; i++)
+
+for(float i=0; i<10, i+=0.1)
+*/
