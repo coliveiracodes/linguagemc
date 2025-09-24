@@ -14,7 +14,7 @@ int main()
     if(num1%2 !=0){
         num1++;
     }
-    for(int i = num1; i <= num2; i+=2){   //reduzi o código para 1 ciclo for
+    for(int i = num1; i <= num2; i+=2){   //reduzi o cÃ³digo para 1 ciclo for
         printf("%d \n", i);
      }
     return 0;
